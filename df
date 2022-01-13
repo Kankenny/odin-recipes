@@ -1,0 +1,41 @@
+[33mcommit 3866810c94616ae3c8d7c9015e436440a6d2e205[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: Kenny <kenji.maddela01@gmail.com>
+Date:   Wed Jan 12 21:13:10 2022 -0500
+
+    finalize recipe pages
+
+[33mcommit 55ad38e8020edefd1fea5409367305d25e0a2a7a[m
+Author: Kenny <kenji.maddela01@gmail.com>
+Date:   Wed Jan 12 21:01:52 2022 -0500
+
+    add food ingredients, directions, and other details
+
+[33mcommit 5e4731bb351543a55b3499d886ad4ca4da12f911[m
+Author: Kenny <kenji.maddela01@gmail.com>
+Date:   Wed Jan 12 20:31:18 2022 -0500
+
+    give lasagna details
+
+[33mcommit 1e2e3f6b7336b57e2dd3cf958bc9957dddb758b0[m
+Author: Kenny <kenji.maddela01@gmail.com>
+Date:   Wed Jan 12 20:30:06 2022 -0500
+
+    add images
+
+[33mcommit cf1b90105b9a03ef6ed7bcdd34a9fad2b8a76720[m
+Author: Kenny <kenji.maddela01@gmail.com>
+Date:   Wed Jan 12 19:01:44 2022 -0500
+
+    add various recipes and its links to index
+
+[33mcommit a265643e08839635ed06200b6189b0a7d55e346e[m
+Author: Kenny <kenji.maddela01@gmail.com>
+Date:   Wed Jan 12 18:36:22 2022 -0500
+
+    add content in READ.me file
+
+[33mcommit a84ecec8f83a7bf5ebc109bc5ce304c0468d0490[m
+Author: Kennette James Maddela <97374837+Kankenny@users.noreply.github.com>
+Date:   Wed Jan 12 15:33:58 2022 -0500
+
+    Initial commit

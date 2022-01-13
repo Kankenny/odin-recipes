@@ -1,0 +1,25 @@
+body {
+
+    background-image: url(images/164211297318404949.png); 
+    background-color: rgb(219, 190, 136);
+}
+
+.main {
+    height:auto;
+    width: 550px;
+}
+
+.foodimg{
+    height: 300px;
+    width:400px;
+}
+
+a{
+    font-family:  'Brush Script MT', cursive;
+    font-size: 22px;
+}
+
+.title{
+    font-family:  'Brush Script MT', cursive;
+    font-size: 50px;
+}
